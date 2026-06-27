@@ -1,0 +1,51 @@
+title,year,genre,rating,votes,gross_million,runtime_min,director
+The Shawshank Redemption,1994,Drama,9.3,2800000,16.0,142,Frank Darabont
+The Godfather,1972,Crime,9.2,1900000,134.9,175,Francis Ford Coppola
+The Dark Knight,2008,Action,9.0,2700000,534.9,152,Christopher Nolan
+The Godfather Part II,1974,Crime,9.0,1300000,57.3,202,Francis Ford Coppola
+12 Angry Men,1957,Drama,9.0,800000,,96,Sidney Lumet
+Schindler's List,1993,Drama,8.9,1400000,96.1,195,Steven Spielberg
+The Lord of the Rings: The Return of the King,2003,Adventure,8.9,1800000,377.8,201,Peter Jackson
+Pulp Fiction,1994,Crime,8.9,2100000,107.9,154,Quentin Tarantino
+The Lord of the Rings: The Fellowship of the Ring,2001,Adventure,8.8,1900000,315.5,178,Peter Jackson
+The Good the Bad and the Ugly,1966,Western,8.8,740000,6.1,178,Sergio Leone
+Forrest Gump,1994,Drama,8.8,2100000,330.0,142,Robert Zemeckis
+Fight Club,1999,Drama,8.8,2200000,37.0,139,David Fincher
+Inception,2010,Sci-Fi,8.8,2400000,292.6,148,Christopher Nolan
+The Lord of the Rings: The Two Towers,2002,Adventure,8.7,1700000,342.6,179,Peter Jackson
+The Matrix,1999,Sci-Fi,8.7,1900000,171.5,136,Lana Wachowski
+Goodfellas,1990,Crime,8.7,1200000,46.8,146,Martin Scorsese
+One Flew Over the Cuckoo's Nest,1975,Drama,8.7,1000000,112.0,133,Milos Forman
+Se7en,1995,Thriller,8.6,1600000,100.1,127,David Fincher
+It's a Wonderful Life,1946,Drama,8.6,430000,,130,Frank Capra
+The Silence of the Lambs,1991,Thriller,8.6,1400000,130.7,118,Jonathan Demme
+Interstellar,2014,Sci-Fi,8.6,1800000,188.0,169,Christopher Nolan
+Saving Private Ryan,1998,War,8.6,1400000,216.5,169,Steven Spielberg
+The Green Mile,1999,Drama,8.6,1300000,136.8,189,Frank Darabont
+Life is Beautiful,1997,Drama,8.6,710000,57.6,116,Roberto Benigni
+Star Wars: Episode V,1980,Sci-Fi,8.7,1300000,290.3,124,Irvin Kershner
+Whiplash,2014,Drama,8.5,840000,13.1,107,Damien Chazelle
+The Departed,2006,Crime,8.5,1300000,132.4,151,Martin Scorsese
+The Pianist,2002,Drama,8.5,780000,32.6,150,Roman Polanski
+Gladiator,2000,Action,8.5,1400000,187.7,155,Ridley Scott
+The Lion King,1994,Animation,8.5,1000000,422.8,88,Roger Allers
+Back to the Future,1985,Sci-Fi,8.5,1200000,210.6,116,Robert Zemeckis
+The Usual Suspects,1995,Thriller,8.5,1100000,23.3,106,Bryan Singer
+Toy Story,1995,Animation,8.3,1000000,191.8,81,John Lasseter
+Avengers: Endgame,2019,Action,8.4,1100000,858.4,181,Anthony Russo
+Joker,2019,Drama,8.4,1000000,335.5,122,Todd Phillips
+Parasite,2019,Drama,8.5,750000,53.4,132,Bong Joon-ho
+Coco,2017,Animation,8.4,640000,210.5,105,Lee Unkrich
+Spider-Man: Into the Spider-Verse,2018,Animation,8.4,560000,190.2,117,Bob Persichetti
+Knives Out,2019,Thriller,7.9,430000,165.4,130,Rian Johnson
+The Grand Budapest Hotel,2014,Comedy,8.1,730000,59.1,99,Wes Anderson
+Mad Max: Fury Road,2015,Action,8.1,900000,154.1,120,George Miller
+Dune,2021,Sci-Fi,8.0,700000,108.3,155,Denis Villeneuve
+Everything Everywhere All at Once,2022,Sci-Fi,8.1,530000,69.9,139,Daniel Kwan
+Oppenheimer,2023,Drama,8.3,650000,326.0,180,Christopher Nolan
+Barbie,2023,Comedy,6.9,300000,636.2,114,Greta Gerwig
+The Batman,2022,Action,7.8,630000,369.3,176,Matt Reeves
+Top Gun: Maverick,2022,Action,8.3,500000,718.7,130,Joseph Kosinski
+Avatar: The Way of Water,2022,Sci-Fi,7.6,310000,684.1,192,James Cameron
+No Country for Old Men,2007,Thriller,8.2,970000,74.3,122,Joel Coen
+There Will Be Blood,2007,Drama,8.2,590000,40.2,158,Paul Thomas Anderson
